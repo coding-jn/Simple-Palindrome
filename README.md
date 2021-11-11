@@ -1,6 +1,6 @@
 # Simple Palindrome 💬
 
-Simple application using Node.js and Express.js to check whether a word is a palindrome.
+Check whether a word is a palindrome using Node.js and Express.js.
 
 **Live Demo:** <i>Demo to be created</i>
 
